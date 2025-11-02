@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Beagle",
+    "scientificName": "Canis Iupus familiaris",
+    "habitat": "Apartments and houses with yards",
+    "description": "Small scent hounds known for their great sense of smell."
   }
 ]
