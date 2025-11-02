@@ -34,5 +34,11 @@
     "scientificName": "Canis Iupus familiaris",
     "habitat": "Apartments and houses with yards",
     "description": "Small scent hounds known for their great sense of smell."
+  },
+  {
+    "commonName": "Serval cat",
+    "scientificName": "Leptailurus serval",
+    "habitat": "Tall grasslands, and open spaces.",
+    "description": "Medium sized wild cat native to Africa known for its long legs, large ears, and spotted coat."
   }
 ]
